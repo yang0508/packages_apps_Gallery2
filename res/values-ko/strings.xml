@@ -254,14 +254,14 @@
     <string name="pref_camcorder_settings_category" msgid="460313486231965141">"캠코더 설정"</string>
     <string name="pref_camera_picturesize_title" msgid="4333724936665883006">"사진 크기"</string>
     <string name="pref_camera_picturesize_entry_13mp" msgid="675309554194481780">"1300만 화소"</string>
-    <string name="pref_camera_picturesize_entry_8mp" msgid="259953780932849079">"8M 픽셀"</string>
-    <string name="pref_camera_picturesize_entry_5mp" msgid="2882928212030661159">"5M 픽셀"</string>
-    <string name="pref_camera_picturesize_entry_4mp" msgid="933242108272469142">"4백만 화소"</string>
-    <string name="pref_camera_picturesize_entry_3mp" msgid="741415860337400696">"3M 픽셀"</string>
-    <string name="pref_camera_picturesize_entry_2mp" msgid="1753709802245460393">"2M 픽셀"</string>
-    <string name="pref_camera_picturesize_entry_2mp_wide" msgid="5359490802026616612">"2백만 화소(16:9)"</string>
-    <string name="pref_camera_picturesize_entry_1_3mp" msgid="829109608140747258">"1.3M 픽셀"</string>
-    <string name="pref_camera_picturesize_entry_1mp" msgid="1669725616780375066">"1M 픽셀"</string>
+    <string name="pref_camera_picturesize_entry_8mp" msgid="259953780932849079">"800만 화소"</string>
+    <string name="pref_camera_picturesize_entry_5mp" msgid="2882928212030661159">"500만 화소"</string>
+    <string name="pref_camera_picturesize_entry_4mp" msgid="933242108272469142">"400만 화소"</string>
+    <string name="pref_camera_picturesize_entry_3mp" msgid="741415860337400696">"300만 화소"</string>
+    <string name="pref_camera_picturesize_entry_2mp" msgid="1753709802245460393">"200만 화소"</string>
+    <string name="pref_camera_picturesize_entry_2mp_wide" msgid="5359490802026616612">"200만 화소(16:9)"</string>
+    <string name="pref_camera_picturesize_entry_1_3mp" msgid="829109608140747258">"130만 화소"</string>
+    <string name="pref_camera_picturesize_entry_1mp" msgid="1669725616780375066">"100만 화소"</string>
     <string name="pref_camera_picturesize_entry_vga" msgid="806934254162981919">"VGA"</string>
     <string name="pref_camera_picturesize_entry_qvga" msgid="8576186463069770133">"QVGA"</string>
     <string name="pref_camera_focusmode_title" msgid="2877248921829329127">"초점 모드"</string>
@@ -436,4 +436,61 @@
     <item quantity="one" msgid="6949174783125614798">"사진 %1$d장"</item>
     <item quantity="other" msgid="3813306834113858135">"사진 %1$d장"</item>
   </plurals>
+    <string name="pref_camera_power_shutter_title">파워 셔터</string>
+    <string name="pref_camera_focustime_title">터치포커스</string>
+    <string name="pref_camera_focustime_entry_5">5 초</string>
+    <string name="pref_camera_focustime_entry_10">10 초</string>
+    <string name="pref_camera_focustime_entry_15">15 초</string>
+    <string name="pref_camera_focustime_entry_20">20 초</string>
+    <string name="pref_camera_focustime_entry_30">30 초</string>
+    <string name="pref_camera_focustime_entry_infinite">무한</string>
+    <string name="pref_camera_jpeg_title">사진 품질</string>
+    <string name="pref_camera_jpeg_entry_super">최고 품질</string>
+    <string name="pref_camera_jpeg_entry_high">높은 품질</string>
+    <string name="pref_camera_jpeg_entry_medium">중간 품질</string>
+    <string name="pref_camera_jpeg_entry_low">낮은 품질</string>
+    <string name="pref_camera_burst_title">버스트 모드</string>
+    <string name="pref_camera_burst_entry_off">사용 안함</string>
+    <string name="pref_camera_burst_entry_5">5 장</string>
+    <string name="pref_camera_burst_entry_10">10 장</string>
+    <string name="pref_camera_burst_entry_15">15 장</string>
+    <string name="pref_camera_burst_entry_20">20 장</string>
+    <string name="pref_camera_focusmode_entry_continuouspicture">연속 사진</string>
+    <string name="pref_camera_focusmode_entry_continuousvideo">연속 비디오</string>
+    <string name="pref_camera_focusmode_entry_fixed">고정</string>
+    <string name="pref_nohands_persistent_title">핸즈프리</string>
+    <string name="pref_camera_storage_title">저장소</string>
+    <string name="pref_camera_iso_entry_auto">자동</string>
+    <string name="pref_camera_picturesize_entry_6mp">600만 화소</string>
+    <string name="pref_video_jpeg_title">동영상 품질</string>
+
+    <string name="camera_menu_enhance_label">촬영 효과</string>
+    <string name="pref_camera_coloreffect_title">컬러 효과</string>
+    <string name="pref_camera_coloreffect_entry_none">사용 안함</string>
+    <string name="pref_camera_coloreffect_entry_mono">모노</string>
+    <string name="pref_camera_coloreffect_entry_sepia">세피아</string>
+    <string name="pref_camera_coloreffect_entry_negative">네거티브</string>
+    <string name="pref_camera_coloreffect_entry_solarize">솔라라이즈</string>
+    <string name="pref_camera_coloreffect_entry_posterize">포스터라이즈</string>
+    <string name="pref_camera_coloreffect_entry_aqua">아쿠아</string>
+    <string name="pref_camera_coloreffect_entry_washed">워시드</string>
+    <string name="pref_camera_coloreffect_entry_vintage_warm">빈티지 웜</string>
+    <string name="pref_camera_coloreffect_entry_vintage_cold">빈티지 콜드</string>
+    <string name="pref_camera_coloreffect_entry_point_green">포인트 그린</string>
+    <string name="pref_camera_coloreffect_entry_point_blue">포인트 블루</string>
+    <string name="pref_camera_coloreffect_entry_point_red_yellow">포인트 레드옐로우</string>
+    <string name="pref_camera_coloreffect_entry_cartoonize">카툰</string>
+    <string name="pref_camera_scenemode_entry_backlight">백라이트</string>
+    <string name="pref_camera_scenemode_entry_beach">해변</string>
+    <string name="pref_camera_scenemode_entry_candlelight">촛불</string>
+    <string name="pref_camera_scenemode_entry_duskdawn">노을</string>
+    <string name="pref_camera_scenemode_entry_fallcolor">가을빛</string>
+    <string name="pref_camera_scenemode_entry_fireworks">불꽃</string>
+    <string name="pref_camera_scenemode_entry_highsensitivity">고감도</string>
+    <string name="pref_camera_scenemode_entry_landscape">풍경</string>
+    <string name="pref_camera_scenemode_entry_portrait">묘사</string>
+    <string name="pref_camera_scenemode_entry_snow">눈</string>
+    <string name="pref_camera_scenemode_entry_text">글자</string>
+    <string name="pref_camera_scenemode_entry_sports">스포츠</string>
+
 </resources>
